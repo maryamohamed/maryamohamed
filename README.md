@@ -11,3 +11,4 @@ Skills:
 
 
 [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/maryamohamed) 
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linedin' height='40'>](https://www.linkedin.com/in/maryam-mohamed278/) 
