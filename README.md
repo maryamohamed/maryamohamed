@@ -4,7 +4,9 @@
   <img alt="Maryam's Welcome Message"
 	 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5Fh10&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Maryam❤️....">
 </p>
-<h1>👩🏻‍💻Maryam Mohmamed Ali  --I'm an Android Develpoer-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1><img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h1 align="center"> Maryam Mohmamed Ali <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="center"> I'm an Android Develpoer 👩🏻‍💻</h3>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 </em></p>
  
 #### Skills:
